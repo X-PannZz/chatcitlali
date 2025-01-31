@@ -21,11 +21,11 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>Hello! I&apos;m Junior, a Software Developer based in Buenos Aires, Argentina.</p>
+            <p>CitlaliAi is an AI robot or what is called "Artificial Intelligence".</p>
             <p>
-              I enjoy creating beautiful and reliable applications for internet and phones.
-              <br />
-              My goal is to always build scalable products and performant experiences.
+              CilaliAi was created by X-PannZz, CitlaliAi is useful for making friends, asking questions, and others
+              <br/>
+              #! CitlaliAi - 2025
             </p>
             <br />
             <p>Here are a few technologies I&apos;ve been working with recently:</p>

@@ -1,4 +1,4 @@
-/* eslint-disable react/no-array-index-key */
+ini/* eslint-disable react/no-array-index-key */
 import { useState, useEffect } from 'react';
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import { email } from '@config';
@@ -14,7 +14,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Welcome, I&apos;m</h1>;
-  const two = <StyledBigTitle>Junior García.</StyledBigTitle>;
+  const two = <StyledBigTitle>Citlali Ai.</StyledBigTitle>;
   const three = <StyledBigTitle slate>I build web and mobile apps.</StyledBigTitle>;
   const four = (
     <p>
